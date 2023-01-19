@@ -17,11 +17,10 @@
 </div>  
 
 
-<!--
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=AllenYolk&&style=flat-square" align="center" />
+    <img src="https://komarev.com/ghpvc/?username=AllenYolk&&style=flat-square" align="center"/>
 </div>  
--->
+
 
 <br/>  
 
@@ -66,11 +65,6 @@
 </div>  
 
 <br/>  
-
-### In the last week, ...
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 
 ### Github Stats  
