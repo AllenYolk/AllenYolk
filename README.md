@@ -69,11 +69,11 @@
 ### Github Stats  
 
 <table><tr>
-<td width="50%">
-    <img src="https://github-readme-stats-fork-beta.vercel.app/api?username=AllenYolk&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
+<td algn="center" valign="center">
+    <img src="https://github-readme-stats-fork-beta.vercel.app/api?username=AllenYolk&show_icons=true&count_private=true&hide_border=true" align="center" style="height: 250px" />
 </td>
-<td width="50%:>
-    <img src="https://github-readme-stats-fork-beta.vercel.app/api/top-langs/?username=AllenYolk&hide_border=true&layout=compact" align="center" style="width: 100%"/>
+<td align="center" valign="center">
+    <img src="https://github-readme-stats-fork-beta.vercel.app/api/top-langs/?username=AllenYolk&hide_border=true&layout=compact" align="center" style="height: 250px"/>
 </td>
 </tr></table>
 
