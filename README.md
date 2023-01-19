@@ -60,7 +60,10 @@
 
 ### In the last week, ...
 
-
+<img
+  src="https://github.com/AllenYolk/AllenYolk/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
 
 
 ### Github Stats  
