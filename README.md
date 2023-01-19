@@ -6,16 +6,19 @@
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>  
 </div>  
-  
 
+
+<!--
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=AllenYolk&&style=flat-square" align="center" />
 </div>  
-  
+-->
 
 <br/>  
 
-<table><tr><td valign="top" width="60%" style="border: none">
+<p>
+
+<img src="./img/poppic-bread.webp" align="right" width="20%" height="auto" />
 
 * ✍️ I’m currently a senior @ [PKU](https://www.pku.edu.cn/), majoring in Computer Science and minoring in Psychology.  
   
@@ -26,16 +29,9 @@
 * 🎮 I'm passionate about cycling 🚲, playing table tennis 🏓, **Monster Hunter**, **Civilization VI**, ......  
   
 
-* ✉️ Feel free to contact me through [email](mailto:huang2627099045@gmail.com).  
+* ✉️ Feel free to contact me through [email](mailto:huang2627099045@gmail.com)!
 
-
-</td><td valign="center" width="50%" style="border: none">
-
-<div align="center">
-<img src="./img/poppic-bread.webp" align="center" style="width: 100%" />
-</div>  
-
-</td></tr></table>  
+</p>
 
 <br/>  
 
@@ -64,15 +60,11 @@
 
 
 ### Github Stats  
-<table><tr><td valign="top" width="50%" style="border: none">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AllenYolk&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AllenYolk&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 48%" />
 
-</td><td valign="top" width="50%" style="border: none">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenYolk&hide_border=true&layout=compact" align="right" style="width: 48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenYolk&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
 
 <br/>  
 
