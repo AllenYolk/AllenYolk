@@ -69,10 +69,8 @@
 
 ### In the last week, ...
 
-<img
-  src="https://github.com/AllenYolk/AllenYolk/blob/main/images/stat.svg"
-  alt="Alternative Text"
-/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ### Github Stats  
