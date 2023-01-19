@@ -3,7 +3,16 @@
 
 <div align="center">
     <a href="https://github.com/AllenYolk" target="_blank">
-        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+        <img src=https://img.shields.io/badge/github-white.svg?&style=for-the-badge&logo=github&logoColor=black alt=github style="margin-bottom: 5px;" />
+    </a>
+    <a href="mailto:huang2627099045@gmail.com" target="_blank">
+        <img src=https://img.shields.io/badge/gmail-blue.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://space.bilibili.com/33995188" target="_blank">
+        <img src=https://img.shields.io/badge/bilibili-ff69b4.svg?&style=for-the-badge&logo=bilibili&logoColor=white alt=github style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://steamcommunity.com/id/AllenYolk" target="_blank">
+        <img src=https://img.shields.io/badge/steam-black.svg?&style=for-the-badge&logo=steam&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>  
 </div>  
 
@@ -67,7 +76,7 @@
 
 
 ### Github Stats  
-
+<div align="center">
 <table><tr>
 <td algn="center" valign="center">
     <img src="https://github-readme-stats-fork-beta.vercel.app/api?username=AllenYolk&show_icons=true&count_private=true&hide_border=true" align="center" style="height: 250px" />
@@ -76,4 +85,5 @@
     <img src="https://github-readme-stats-fork-beta.vercel.app/api/top-langs/?username=AllenYolk&hide_border=true&layout=compact" align="center" style="height: 250px"/>
 </td>
 </tr></table>
+</div>
 
