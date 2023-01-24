@@ -44,6 +44,7 @@
 <br/>  
 
 ### Languages and Tools  
+<p>
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
@@ -63,9 +64,14 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>  
+</p>
 
 <br/>  
 
+### Coding Activities This Week
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AllenYolk&cache_seconds=1"/>
+</div>
 
 ### Github Stats  
 <div align="center">
