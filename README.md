@@ -71,10 +71,10 @@
 <div align="center">
 <table><tr>
 <td algn="center" valign="center">
-    <img src="https://github-readme-stats-fork-beta.vercel.app/api?username=AllenYolk&show_icons=true&count_private=true&hide_border=true" align="center" style="height: 250px" />
+    <img src="https://github-readme-stats-fork-beta.vercel.app/api?username=AllenYolk&show_icons=true&count_private=true&hide_border=true&cache_seconds=10" align="center" style="height: 250px" />
 </td>
 <td align="center" valign="center">
-    <img src="https://github-readme-stats-fork-beta.vercel.app/api/top-langs/?username=AllenYolk&hide_border=true&layout=compact" align="center" style="height: 250px"/>
+    <img src="https://github-readme-stats-fork-beta.vercel.app/api/top-langs/?username=AllenYolk&hide_border=true&layout=compact&cache_seconds=10" align="center" style="height: 250px"/>
 </td>
 </tr></table>
 </div>
