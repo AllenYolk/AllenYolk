@@ -33,7 +33,7 @@
 
 * 🤤 I’m interested in **brain-inspired computation** (SNN & dendritic computing), **machine learning**, **neuroscience** and **psychology**.  
 
-* 🧠 I'm learning **Rust** currently.
+* 🧠 I'm learning **Rust** and **MMA** (mixed martial arts) 🥋 currently.
   
 * 🎮 I'm passionate about cycling 🚲, playing table tennis 🏓, **Monster Hunter**, **Civilization VI**, ......  
   
