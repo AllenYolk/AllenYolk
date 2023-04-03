@@ -5,7 +5,7 @@
     <a href="https://github.com/AllenYolk" target="_blank">
         <img src=https://img.shields.io/badge/github-white.svg?&style=for-the-badge&logo=github&logoColor=black alt=github style="margin-bottom: 5px;" />
     </a>
-    <a href="mailto:huang2627099045@gmail.com" target="_blank">
+    <a href="mailto:allen.yfhuang@gmail.com" target="_blank">
         <img src=https://img.shields.io/badge/gmail-blue.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
     <a href="https://space.bilibili.com/33995188" target="_blank">
@@ -38,7 +38,7 @@
 * 🎮 I'm passionate about cycling 🚲, playing table tennis 🏓, **Monster Hunter**, **Civilization VI**, ......  
   
 
-* ✉️ Feel free to contact me through [email](mailto:huang2627099045@gmail.com)!
+* ✉️ Feel free to contact me through [email](mailto:allen.yfhuang@gmail.com)!
 
 </p>
 
