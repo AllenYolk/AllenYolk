@@ -72,7 +72,7 @@
 
 ### Coding Activities This Week
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AllenYolk&cache_seconds=1"/>
+  <img src="https://github-readme-stats-fork-beta.vercel.app/api/wakatime?username=AllenYolk&range=last_7_days&cache_seconds=1"/>
 </div>
 
 ### Github Stats  
