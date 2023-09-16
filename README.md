@@ -28,7 +28,7 @@
 
 <img src="./images/poppic-bread.webp" align="right" width="20%" height="auto" />
 
-* ✍️ I’m currently a senior @ [PKU](https://www.pku.edu.cn/), majoring in Computer Science and minoring in Psychology.  
+* ✍️ I’m currently pursuing a Ph.D. @ [PKU](https://www.pku.edu.cn/), majoring in Computer Science.  
   
 
 * 🤤 I’m interested in **brain-inspired computation** (SNN & dendritic computing), **machine learning**, **neuroscience** and **psychology**.  
