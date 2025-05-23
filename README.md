@@ -31,11 +31,11 @@
 * ✍️ I’m currently pursuing a Ph.D. @ [PKU](https://www.pku.edu.cn/), majoring in Computer Science.  
   
 
-* 🤤 I’m interested in **brain-inspired computation** (SNN & dendritic computing), **machine learning**, **AI for neuroscience** and **AI for psychology**.  
+* 🤤 I’m interested in **brain-inspired computation** (SNN), **speed & memory optimization of NN training**, **AI for neuroscience** and **AI for psychology**.  
 
-* 🧠 I'm learning **Rust** and **MMA** (mixed martial arts) 🥋 currently.
+* 🧠 I'm learning **Muay Thai** and **MMA** 🥋 currently.
   
-* 🎮 I'm passionate about cycling 🚲, playing table tennis 🏓, **Dota2**, **Monster Hunter**, **Civilization VI**, ......  
+* 🎮 I'm passionate about **Dota2**, **Monster Hunter**, ......  
   
 
 * ✉️ Feel free to contact me through [email](mailto:allen.yfhuang@gmail.com)!
